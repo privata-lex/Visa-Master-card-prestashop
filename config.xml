@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>carte</name>
+	<displayName><![CDATA[Visa Master Card - SPS Tunisie]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Accepte le paiement par carte VISA MASTER CARD]]></description>
+	<author><![CDATA[privata & lex]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall>Etes vous sur de supprimer vos d&#233;tails ?</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
